@@ -1,0 +1,10 @@
+{
+  "name": "cloudstream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CloudStream terminal-inspired video library",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
